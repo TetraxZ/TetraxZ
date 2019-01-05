@@ -4,8 +4,9 @@
     {
       "name": "ESAlpha Randomizer",
       "author": "TetraxZ",
+	  "game_name": "Environmental Station Alpha Randomizer",
       "version": "1.0.0.0",
-      "uid": "esalpha",
+      "uid": "esalpha_tetraxz",
       "link": "https://tetraxz.github.io/ESAlpha.zip"
     }
   ]
