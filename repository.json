@@ -1,0 +1,12 @@
+{
+  "name": "ESAlpha Randomizer Pack",
+  "packages": [
+    {
+      "name": "ESAlpha Randomizer - Items Only",
+      "author": "EmoSaru",
+      "version": "1.0.0.7",
+      "uid": "esalpha",
+      "link": "https://tetraxz.github.io/ESAlpha.rar"
+    }
+  ]
+}
