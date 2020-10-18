@@ -7,7 +7,7 @@ Youtube: [https://www.youtube.com/c/tetraxz](https://www.youtube.com/c/tetraxz)
 
 Twitter: [https://twitter.com/TetraxZ](https://twitter.com/TetraxZ)
 
-Discord: TetraxZ#5101
+Discord: [TetraxZ#5101]{https://discord.gg/xjhUsYq}
 
 Activision ID (Modern Warfare): TetraxZ#8631472
 
