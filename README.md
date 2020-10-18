@@ -1,5 +1,5 @@
 hi im tetrax lol
-# Social links
+# Social media links
 
 Twitch: https://www.twitch.tv/tetraxz/
 
