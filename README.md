@@ -1,11 +1,11 @@
 hi im tetrax lol
 # Social media links
 
-Twitch: [https://www.twitch.tv/tetraxz/](https://www.twitch.tv/tetraxz/)
+Twitch: [TetraxZ](https://www.twitch.tv/tetraxz/)
 
-Youtube: [https://www.youtube.com/c/tetraxz](https://www.youtube.com/c/tetraxz)
+Youtube: [TetraxZ](https://www.youtube.com/c/tetraxz)
 
-Twitter: [https://twitter.com/TetraxZ](https://twitter.com/TetraxZ)
+Twitter: [TetraxZ](https://twitter.com/TetraxZ)
 
 Discord: [TetraxZ#5101](https://discord.gg/xjhUsYq)
 
