@@ -18,7 +18,7 @@ Activision ID (Modern Warfare): TetraxZ#8631472
 Various level packs for Baba Is You
 
 ### [BfBB Ring Challenge](https://github.com/TetraxZ/BfBB-Ring-Challenge)
-A mod for Battle for Bikini Bottom (NTSC GC) that adds a ring challenge to most levels, utilizes multiple characters and abilities
+A mod for Battle for Bikini Bottom (NTSC GC) that adds a ring challenge to most levels, and utilizes multiple characters and abilities
 
 ### [ESAlpha Tracker](https://tetraxz.github.io/esalpha_tetraxz.zip)
 A tracker for EmoTracker for the game Environmental Station Alpha, to be used with [the randomizer](https://www.speedrun.com/tools/ESA_randomizer_5.4_x9sni.zip)
