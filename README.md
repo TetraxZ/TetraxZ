@@ -1,3 +1,4 @@
+hi im tetrax lol
 # Social links
 
 Twitch: https://www.twitch.tv/tetraxz/
