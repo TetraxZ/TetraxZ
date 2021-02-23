@@ -9,8 +9,6 @@ Twitter: [TetraxZ](https://twitter.com/TetraxZ)
 
 Discord: TetraxZ#4444
 
-Activision ID (Modern Warfare): TetraxZ#8631472
-
 
 # significant??? things that ive done:
 
