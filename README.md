@@ -12,6 +12,9 @@ Discord: TetraxZ#4444
 
 # significant??? things that ive done:
 
+### [BfBB Practice Mod](https://github.com/TetraxZ/BfBB-Practice-Mod/)
+A speedrun practice mod for the XBOX version of Battle for Bikini Bottom that features many changes to allow tricks and other things to be practiced easier
+
 ### [Baba Level Packs](https://github.com/TetraxZ/Baba-Level-Packs)
 Various level packs for Baba Is You
 
