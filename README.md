@@ -7,7 +7,7 @@ Youtube: [TetraxZ](https://www.youtube.com/c/tetraxz)
 
 Twitter: [TetraxZ](https://twitter.com/TetraxZ)
 
-Discord: TetraxZ#4444
+Discord: TetraxZ
 
 
 # significant??? things that ive done:
