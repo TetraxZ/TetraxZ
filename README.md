@@ -1,14 +1,20 @@
-hi im tetrax lol
-# Social media links
+I'm TetraxZ: Bi/Pan, autistic, adhd, silly. I'm fairly online outside of work and do some projects or make content.
+# Links
 
-Twitch: [TetraxZ](https://www.twitch.tv/tetraxz/)
-
-Youtube: [TetraxZ](https://www.youtube.com/c/tetraxz)
+## Social Media
+Bluesky: [Tetraxz.bsky.social](https://bsky.app/profile/tetraxz.bsky.social)
 
 Twitter: [TetraxZ](https://twitter.com/TetraxZ)
 
+## Direct Messages
+Telegram: [TetraxZ](https://t.me/TetraxZ)
+
 Discord: TetraxZ
 
+## Content
+Twitch: [TetraxZ](https://www.twitch.tv/tetraxz/)
+
+Youtube: [TetraxZ](https://www.youtube.com/c/tetraxz)
 
 # significant??? things that ive done:
 
@@ -20,6 +26,3 @@ A mod for Battle for Bikini Bottom (GC and XBOX) that puts a heavy emphasis on e
 
 ### [Baba Level Packs](https://github.com/TetraxZ/Baba-Level-Packs)
 Various level packs for Baba Is You
-
-### [ESAlpha Tracker](https://tetraxz.github.io/esalpha_tetraxz.zip)
-A tracker for EmoTracker for the game Environmental Station Alpha, to be used with [the randomizer](https://www.speedrun.com/tools/ESA_randomizer_5.4_x9sni.zip)
