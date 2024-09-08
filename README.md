@@ -1,23 +1,22 @@
+## About Me
 I'm TetraxZ: Bi/Pan, autistic, adhd, silly. I'm fairly online outside of work and do some projects or make content.
-# Links
 
 ## Social Media
-Bluesky: [Tetraxz.bsky.social](https://bsky.app/profile/tetraxz.bsky.social)
-
 Twitter: [TetraxZ](https://twitter.com/TetraxZ)
+
+Bluesky: [Tetraxz.bsky.social](https://bsky.app/profile/tetraxz.bsky.social)
 
 ## Direct Messages
 Telegram: [TetraxZ](https://t.me/TetraxZ)
 
-Discord: TetraxZ
+Discord: TetraxZ **(Most Active Here)**
 
 ## Content
 Twitch: [TetraxZ](https://www.twitch.tv/tetraxz/)
 
 Youtube: [TetraxZ](https://www.youtube.com/c/tetraxz)
 
-# significant??? things that ive done:
-
+## Projects I've done:
 ### [BfBB Practice Mod](https://github.com/TetraxZ/BfBB-Practice-Mod/)
 A speedrun practice mod for the XBOX version of Battle for Bikini Bottom that features many changes to allow tricks and other things to be practiced easier.
 
