@@ -2,7 +2,7 @@
 I'm TetraxZ: Bi/Pan, Autistic, ADHD, and Silly. I'm usually online just chillin, outside of that i work a job, stream/record videos, or tinker with games
 ## Social Media
 
-Bluesky: [tetraxz.thev0id.io](https://bsky.app/profile/tetraxz.thev0id.io) I check often and post sometimes here
+Bluesky: [tetraxz.bsky.social](https://bsky.app/profile/tetraxz.bsky.social) I check often and post sometimes here
 
 Twitter: [TetraxZ](https://twitter.com/TetraxZ) I don't tweet all too much but I do check here
 ## Direct Messages
